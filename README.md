@@ -3,10 +3,9 @@ Aplicação que cadastra voluntários para doação de sangue,guarda os dados e 
 
 # Atenção 
 As dependências usadas foram :
-npm install
-Express
-Nodemon
-Nunjucks
-Pg
+Express,
+Nodemon,
+Nunjucks,
+Pg.
 
 
